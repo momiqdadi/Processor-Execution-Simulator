@@ -5,6 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("enter number of processors : ");
+
         int numberOfProcessors = sc.nextInt();
 
         System.out.println("enter number of cycles : ");
